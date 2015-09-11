@@ -1,0 +1,567 @@
+# depslib dependency file v1.0
+1430144645 source:d:\daten\privat\cortipluginstest\dynplugins\cortiweaponproperties\main.cpp
+	<DynRPG/DynRPG.h>
+	<sstream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<cmath>
+	<deque>
+	"D:/Daten/Privat/Project1/DynPlugins/CortiSys/helper.cpp"
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dynrpg.h
+	<string>
+	<map>
+	<windows.h>
+	"DArray.h"
+	"ArrayBaseOne.h"
+	"DList.h"
+	"Catalog.h"
+	"DString.h"
+	"DBitmap.h"
+	"Image.h"
+	"Canvas.h"
+	"Music.h"
+	"Sound.h"
+	"Input.h"
+	"Picture.h"
+	"DBSystem.h"
+	"System.h"
+	"Screen.h"
+	"Variables.h"
+	"Switches.h"
+	"MoveRoute.h"
+	"EventScriptLine.h"
+	"EventScriptData.h"
+	"EventPrecondition.h"
+	"EventPage.h"
+	"EventData.h"
+	"Character.h"
+	"Action.h"
+	"Battler.h"
+	"SkillProgression.h"
+	"ParsedCommentData.h"
+	"TeleportManagement.h"
+	"Teleport.h"
+	"Panorama.h"
+	"Window.h"
+	"BattleCommand.h"
+	"BattleSettings.h"
+	"BattleData.h"
+	"BattleEvent.h"
+	"MonsterBehavior.h"
+	"BattleEventTrigger.h"
+	"BattleEventPage.h"
+	"MonsterGroupPosition.h"
+	"DBMonsterGroup.h"
+	"AnimationFrameCel.h"
+	"AnimationFrame.h"
+	"AnimationEffect.h"
+	"Animation.h"
+	"AnimationWeapon.h"
+	"Item.h"
+	"AnimationSkill.h"
+	"Skill.h"
+	"Animation2Pose.h"
+	"Animation2Weapon.h"
+	"Animation2.h"
+	"AnimationCurrent.h"
+	"AnimationInBattle.h"
+	"DBActor.h"
+	"Actor.h"
+	"Monster.h"
+	"DBClass.h"
+	"DBMonster.h"
+	"Inventory.h"
+	"Attribute.h"
+	"Condition.h"
+	"Vocabulary.h"
+	"SceneMenu.h"
+	"SceneShop.h"
+	"Terrain.h"
+	"Tileset.h"
+	"MapEncounter.h"
+	"MapStartPositions.h"
+	"MapTreeProperties.h"
+	"MapTree.h"
+	"MapLmuFile.h"
+	"MapGraphics.h"
+	"MapProperties.h"
+	"Map.h"
+	"CommonEvent.h"
+	"SceneDebug.h"
+	"SceneGameOver.h"
+	"SceneTitle.h"
+	"SceneEnterName.h"
+	"SceneFile.h"
+	"DynFunctions.h"
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\darray.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\arraybaseone.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dlist.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\catalog.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dstring.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dbitmap.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\image.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\canvas.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\music.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\sound.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\input.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\picture.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dbsystem.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\system.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\screen.h
+
+1426603954 d:\developementtools\libraries\dynrpgv30\dynrpg\variables.h
+
+1426606751 d:\developementtools\libraries\dynrpgv30\dynrpg\switches.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\moveroute.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\eventscriptline.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\eventscriptdata.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\eventprecondition.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\eventpage.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\eventdata.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\character.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\action.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battler.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\skillprogression.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\parsedcommentdata.h
+
+1426671572 d:\developementtools\libraries\dynrpgv30\dynrpg\teleportmanagement.h
+
+1426670059 d:\developementtools\libraries\dynrpgv30\dynrpg\teleport.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\panorama.h
+
+1426606942 d:\developementtools\libraries\dynrpgv30\dynrpg\window.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battlecommand.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battlesettings.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battledata.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battleevent.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\monsterbehavior.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battleeventtrigger.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\battleeventpage.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\monstergroupposition.h
+
+1426670174 d:\developementtools\libraries\dynrpgv30\dynrpg\dbmonstergroup.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationframecel.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationframe.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationeffect.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animation.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationweapon.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\item.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationskill.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\skill.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animation2pose.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animation2weapon.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animation2.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationcurrent.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\animationinbattle.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dbactor.h
+
+1426671016 d:\developementtools\libraries\dynrpgv30\dynrpg\actor.h
+
+1426671171 d:\developementtools\libraries\dynrpgv30\dynrpg\monster.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dbclass.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dbmonster.h
+
+1426670522 d:\developementtools\libraries\dynrpgv30\dynrpg\inventory.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\attribute.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\condition.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\vocabulary.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\scenemenu.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\sceneshop.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\terrain.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\tileset.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\mapencounter.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\mapstartpositions.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\maptreeproperties.h
+
+1426670545 d:\developementtools\libraries\dynrpgv30\dynrpg\maptree.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\maplmufile.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\mapgraphics.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\mapproperties.h
+
+1426671169 d:\developementtools\libraries\dynrpgv30\dynrpg\map.h
+
+1426670645 d:\developementtools\libraries\dynrpgv30\dynrpg\commonevent.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\scenedebug.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\scenegameover.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\scenetitle.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\sceneentername.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\scenefile.h
+
+1426362164 d:\developementtools\libraries\dynrpgv30\dynrpg\dynfunctions.h
+
+1429538159 d:\daten\privat\project1\dynplugins\cortisys\helper.cpp
+	<sstream>
+
+1438071454 source:d:\daten\malte\spaces\corti\dynplugins v20\dynplugins\cortiweaponproperties\main.cpp
+	<DynRPG/DynRPG.h>
+	<sstream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<cmath>
+	<deque>
+	"D:\Daten\Malte\Spaces\Corti\Project1\Project1Game\DynPlugins\CortiSys\Helper.cpp"
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dynrpg.h
+	<string>
+	<map>
+	<windows.h>
+	"DArray.h"
+	"ArrayBaseOne.h"
+	"DList.h"
+	"Catalog.h"
+	"DString.h"
+	"DBitmap.h"
+	"Image.h"
+	"Canvas.h"
+	"Music.h"
+	"Sound.h"
+	"Input.h"
+	"Picture.h"
+	"DBSystem.h"
+	"System.h"
+	"Screen.h"
+	"Variables.h"
+	"Switches.h"
+	"MoveRoute.h"
+	"EventScriptLine.h"
+	"EventScriptData.h"
+	"EventPrecondition.h"
+	"EventPage.h"
+	"EventData.h"
+	"Character.h"
+	"Action.h"
+	"Battler.h"
+	"SkillProgression.h"
+	"ParsedCommentData.h"
+	"TeleportManagement.h"
+	"Teleport.h"
+	"Panorama.h"
+	"Window.h"
+	"BattleCommand.h"
+	"BattleSettings.h"
+	"BattleData.h"
+	"BattleEvent.h"
+	"MonsterBehavior.h"
+	"BattleEventTrigger.h"
+	"BattleEventPage.h"
+	"MonsterGroupPosition.h"
+	"DBMonsterGroup.h"
+	"AnimationFrameCel.h"
+	"AnimationFrame.h"
+	"AnimationEffect.h"
+	"Animation.h"
+	"AnimationWeapon.h"
+	"Item.h"
+	"AnimationSkill.h"
+	"Skill.h"
+	"Animation2Pose.h"
+	"Animation2Weapon.h"
+	"Animation2.h"
+	"AnimationCurrent.h"
+	"AnimationInBattle.h"
+	"DBActor.h"
+	"Actor.h"
+	"Monster.h"
+	"DBClass.h"
+	"DBMonster.h"
+	"Inventory.h"
+	"Attribute.h"
+	"Condition.h"
+	"Vocabulary.h"
+	"SceneMenu.h"
+	"SceneShop.h"
+	"Terrain.h"
+	"Tileset.h"
+	"MapEncounter.h"
+	"MapStartPositions.h"
+	"MapTreeProperties.h"
+	"MapTree.h"
+	"MapLmuFile.h"
+	"MapGraphics.h"
+	"MapProperties.h"
+	"Map.h"
+	"CommonEvent.h"
+	"SceneDebug.h"
+	"SceneGameOver.h"
+	"SceneTitle.h"
+	"SceneEnterName.h"
+	"SceneFile.h"
+	"DynFunctions.h"
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\darray.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\arraybaseone.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dlist.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\catalog.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dstring.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dbitmap.h
+
+1435858174 d:\programme\developement\libraries\dynrpgv30\dynrpg\image.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\canvas.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\music.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\sound.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\input.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\picture.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dbsystem.h
+
+1435858174 d:\programme\developement\libraries\dynrpgv30\dynrpg\system.h
+
+1435858174 d:\programme\developement\libraries\dynrpgv30\dynrpg\screen.h
+
+1426603954 d:\programme\developement\libraries\dynrpgv30\dynrpg\variables.h
+
+1436710907 d:\programme\developement\libraries\dynrpgv30\dynrpg\switches.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\moveroute.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\eventscriptline.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\eventscriptdata.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\eventprecondition.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\eventpage.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\eventdata.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\character.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\action.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\battler.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\skillprogression.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\parsedcommentdata.h
+
+1426671572 d:\programme\developement\libraries\dynrpgv30\dynrpg\teleportmanagement.h
+
+1426670059 d:\programme\developement\libraries\dynrpgv30\dynrpg\teleport.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\panorama.h
+
+1436865918 d:\programme\developement\libraries\dynrpgv30\dynrpg\window.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\battlecommand.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\battlesettings.h
+
+1436853300 d:\programme\developement\libraries\dynrpgv30\dynrpg\battledata.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\battleevent.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\monsterbehavior.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\battleeventtrigger.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\battleeventpage.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\monstergroupposition.h
+
+1426670174 d:\programme\developement\libraries\dynrpgv30\dynrpg\dbmonstergroup.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationframecel.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationframe.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationeffect.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animation.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationweapon.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\item.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationskill.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\skill.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animation2pose.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animation2weapon.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animation2.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationcurrent.h
+
+1436709922 d:\programme\developement\libraries\dynrpgv30\dynrpg\animationinbattle.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dbactor.h
+
+1436865804 d:\programme\developement\libraries\dynrpgv30\dynrpg\actor.h
+
+1436710653 d:\programme\developement\libraries\dynrpgv30\dynrpg\monster.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dbclass.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\dbmonster.h
+
+1436710415 d:\programme\developement\libraries\dynrpgv30\dynrpg\inventory.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\attribute.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\condition.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\vocabulary.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\scenemenu.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\sceneshop.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\terrain.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\tileset.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\mapencounter.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\mapstartpositions.h
+
+1436710536 d:\programme\developement\libraries\dynrpgv30\dynrpg\maptreeproperties.h
+
+1426670545 d:\programme\developement\libraries\dynrpgv30\dynrpg\maptree.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\maplmufile.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\mapgraphics.h
+
+1436710505 d:\programme\developement\libraries\dynrpgv30\dynrpg\mapproperties.h
+
+1426671169 d:\programme\developement\libraries\dynrpgv30\dynrpg\map.h
+
+1426670645 d:\programme\developement\libraries\dynrpgv30\dynrpg\commonevent.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\scenedebug.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\scenegameover.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\scenetitle.h
+
+1426362164 d:\programme\developement\libraries\dynrpgv30\dynrpg\sceneentername.h
+
+1435858174 d:\programme\developement\libraries\dynrpgv30\dynrpg\scenefile.h
+
+1437474291 d:\programme\developement\libraries\dynrpgv30\dynrpg\dynfunctions.h
+
+1440259077 d:\daten\malte\spaces\corti\project1\project1game\dynplugins\cortisys\helper.cpp
+	<sstream>
+	<algorithm>
+	<fstream>
+
+1441347512 source:d:\daten\malte\spaces\corti\dynplugins v20\plugin - cortiitemproperties\dynplugins\cortiitemproperties\cortiitemproperties.cpp
+	<DynRPG/DynRPG.h>
+	<sstream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<cmath>
+	<deque>
+	"D:\Daten\Malte\Spaces\Corti\Project1\Project1Game\DynPlugins\CortiSys\Helper.cpp"
+
+1441185915 source:d:\daten\malte\spaces\corti\dynplugins v20\plugin - cortiitemproperties\dynplugins\cortiitemproperties\ressource.rc
+	<winver.h>
+
+1441954387 source:d:\daten\malte\github\cortiitemproperties\source\ressource.rc
+	<winver.h>
+
+1441953694 source:d:\daten\malte\github\cortiitemproperties\source\cortiitemproperties.cpp
+	<DynRPG/DynRPG.h>
+	<sstream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<cmath>
+	<deque>
+	"Dialog.cpp"
+
+1441953228 d:\daten\malte\github\cortiitemproperties\source\helper.cpp
+	<sstream>
+	<algorithm>
+	<fstream>
+
+1441953522 d:\daten\malte\github\cortiitemproperties\source\dialog.cpp
+	<sstream>
+	<algorithm>
+	<fstream>
+
