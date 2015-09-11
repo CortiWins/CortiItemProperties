@@ -7,7 +7,7 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Release">
-				<Option output="../CortiItemProperties" prefix_auto="1" extension_auto="1" />
+				<Option output="../TestProject/DynPlugins/CortiItemProperties" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="3" />
 				<Option compiler="gcc" />
@@ -27,6 +27,10 @@
 		</Build>
 		<Unit filename="CortiItemProperties.cpp" />
 		<Unit filename="CortiItemProperties.txt" />
+		<Unit filename="Dialog.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="Ressource.rc">
 			<Option compilerVar="WINDRES" />
 		</Unit>
